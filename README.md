@@ -262,24 +262,24 @@ Thanks a lot in advance!
 
 </div>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=burner0621&show_icons=true&theme=radical" alt="burner0621"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burner0621&hide=html,css&layout=compact&theme=radical" alt="burner0621"/>
 </p>
 
 <p  align="Right">
 
 </p>
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=burner0621&theme=radical" alt="burner0621"/>
 </p> -->
 
 
 ## ⚡ Status
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/cedev935?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burner0621&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/burner0621?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=burner0621&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@burner0621's trophy stats"/>
   </a>
 </div>
 
