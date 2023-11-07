@@ -1,5 +1,5 @@
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
+💧 FrontEnd: React, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap, Javascript, ES6+, Typescript
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence
 
@@ -35,20 +35,8 @@ Thanks a lot in advance!
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
